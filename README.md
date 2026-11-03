@@ -1,4 +1,4 @@
-# RAG Chatbot with n8n, Supabase, and OpenAI
+# RAG Chatbot n8n
 
 A Retrieval-Augmented Generation (RAG) chatbot built in n8n. It answers questions using a knowledge base stored in Supabase with pgvector, and it only answers from that knowledge base.
 
